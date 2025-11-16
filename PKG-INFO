@@ -1,0 +1,9 @@
+Metadata-Version: 1.0
+Name: xor
+Version: 0.1
+Summary: efficient xor support for bytes-like object
+Author: Jörg Sonnenberger
+Author-email: joerg@bec.de
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
